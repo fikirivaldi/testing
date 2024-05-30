@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/testing/static/css/main.4f694ae1.css",
+    "main.js": "/testing/static/js/main.554921c9.js",
+    "static/js/453.c076b898.chunk.js": "/testing/static/js/453.c076b898.chunk.js",
+    "static/media/bg2.png": "/testing/static/media/bg2.a17771838ae38ca13ba2.png",
+    "static/media/bg1.png": "/testing/static/media/bg1.462babaa8afc0eafbc82.png",
+    "static/media/venom.jpg": "/testing/static/media/venom.6de5056e672ddd0da420.jpg",
+    "static/media/doctor.jpg": "/testing/static/media/doctor.29f6a0806f9084241a6c.jpg",
+    "static/media/bg.jpg": "/testing/static/media/bg.e5b3952bb16ed942d014.jpg",
+    "static/media/widow.jpg": "/testing/static/media/widow.cc665b3fe936328eb883.jpg",
+    "static/media/wolverine.jpg": "/testing/static/media/wolverine.a5042287838a176f95a3.jpg",
+    "static/media/avengers.jpg": "/testing/static/media/avengers.e8e437a2016cec26542d.jpg",
+    "static/media/flash.jpg": "/testing/static/media/flash.fd97d678c5beb04c7cd8.jpg",
+    "static/media/justice.jpg": "/testing/static/media/justice.528f2eff2486a424b3a3.jpg",
+    "static/media/joker.jpg": "/testing/static/media/joker.7fdf50beb65c8c664289.jpg",
+    "static/media/captain.jpg": "/testing/static/media/captain.2d0558a80801e9b547d9.jpg",
+    "static/media/superman.jpg": "/testing/static/media/superman.dce3b3c56ff0506b16a8.jpg",
+    "static/media/spiderman.jpg": "/testing/static/media/spiderman.b7d5fc3fbdbe2b649df9.jpg",
+    "static/media/deadpool.jpg": "/testing/static/media/deadpool.b74d8880448daf6d8679.jpg",
+    "index.html": "/testing/index.html",
+    "main.4f694ae1.css.map": "/testing/static/css/main.4f694ae1.css.map",
+    "main.554921c9.js.map": "/testing/static/js/main.554921c9.js.map",
+    "453.c076b898.chunk.js.map": "/testing/static/js/453.c076b898.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f694ae1.css",
+    "static/js/main.554921c9.js"
+  ]
+}
